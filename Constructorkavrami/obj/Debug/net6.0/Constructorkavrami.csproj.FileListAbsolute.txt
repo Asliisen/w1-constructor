@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Constructorkavrami\obj\Debug\net6.0\Constructorkavrami.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Constructorkavrami\obj\Debug\net6.0\Constructorkavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Constructorkavrami\obj\Debug\net6.0\Constructorkavrami.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Constructorkavrami\obj\Debug\net6.0\Constructorkavrami.AssemblyInfo.cs
+C:\Users\User\Desktop\Constructorkavrami\obj\Debug\net6.0\Constructorkavrami.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Constructorkavrami\bin\Debug\net6.0\Constructorkavrami.exe
+C:\Users\User\Desktop\Constructorkavrami\bin\Debug\net6.0\Constructorkavrami.deps.json
+C:\Users\User\Desktop\Constructorkavrami\bin\Debug\net6.0\Constructorkavrami.runtimeconfig.json
+C:\Users\User\Desktop\Constructorkavrami\bin\Debug\net6.0\Constructorkavrami.dll
+C:\Users\User\Desktop\Constructorkavrami\bin\Debug\net6.0\Constructorkavrami.pdb
+C:\Users\User\Desktop\Constructorkavrami\obj\Debug\net6.0\Constructorkavrami.dll
+C:\Users\User\Desktop\Constructorkavrami\obj\Debug\net6.0\refint\Constructorkavrami.dll
+C:\Users\User\Desktop\Constructorkavrami\obj\Debug\net6.0\Constructorkavrami.pdb
+C:\Users\User\Desktop\Constructorkavrami\obj\Debug\net6.0\Constructorkavrami.genruntimeconfig.cache
+C:\Users\User\Desktop\Constructorkavrami\obj\Debug\net6.0\ref\Constructorkavrami.dll
